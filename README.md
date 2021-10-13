@@ -1,1 +1,1 @@
-"# hadas-project" 
+"django-project" 
